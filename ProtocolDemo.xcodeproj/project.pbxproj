@@ -12,6 +12,7 @@
 		56DE6DD3205989D4008B73C5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56DE6DD1205989D4008B73C5 /* Main.storyboard */; };
 		56DE6DD5205989D4008B73C5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56DE6DD4205989D4008B73C5 /* Assets.xcassets */; };
 		56DE6DD8205989D4008B73C5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56DE6DD6205989D4008B73C5 /* LaunchScreen.storyboard */; };
+		56DE6DE020598DA4008B73C5 /* ColorsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56DE6DDF20598DA4008B73C5 /* ColorsTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		56DE6DD4205989D4008B73C5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		56DE6DD7205989D4008B73C5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		56DE6DD9205989D4008B73C5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		56DE6DDF20598DA4008B73C5 /* ColorsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				56DE6DCD205989D4008B73C5 /* AppDelegate.swift */,
 				56DE6DCF205989D4008B73C5 /* ViewController.swift */,
+				56DE6DDF20598DA4008B73C5 /* ColorsTableViewController.swift */,
 				56DE6DD1205989D4008B73C5 /* Main.storyboard */,
 				56DE6DD4205989D4008B73C5 /* Assets.xcassets */,
 				56DE6DD6205989D4008B73C5 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				56DE6DD0205989D4008B73C5 /* ViewController.swift in Sources */,
 				56DE6DCE205989D4008B73C5 /* AppDelegate.swift in Sources */,
+				56DE6DE020598DA4008B73C5 /* ColorsTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
